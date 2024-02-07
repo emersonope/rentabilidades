@@ -23,6 +23,14 @@ Esta é uma API desenvolvida em Java com Spring Boot para calcular rentabilidade
 - O arquivo de entrada ja esta configurado, garanta que esteja no caminho "resources/file"
 - Executar a aplicação
 
+## Documentação com Swagger
+
+```` 
+http://localhost:8080/swagger-ui/index.html
+````
+
+![img.png](img.png)
+
 ## Endpoints Disponíveis
 
 ### Listar todas as rentabilidades em ordem decrescente
